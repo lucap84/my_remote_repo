@@ -1,1 +1,2 @@
+questa riga è completamente cambiata da member2
 file 1 prova MODIFICATO da member1
